@@ -1,0 +1,2 @@
+conda deactivate ll2utm_Env
+conda remove --name ll2utm_Env --all
