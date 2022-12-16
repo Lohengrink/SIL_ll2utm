@@ -35,7 +35,7 @@ ll2utm是一個由python寫成的小工具。其主要的功能為將經緯度�
 
     (3-3) 接下來在terminal當中執行以下的程式碼：
     ```
-    conda env export --name ll2utm_Env --file ll2utm_Env.yml
+    conda env create --file ll2utm_Env.yml --name ll2utm_Env
     ```
 
     出現上圖表示執行成功(如圖)
