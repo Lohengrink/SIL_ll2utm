@@ -44,7 +44,7 @@ ll2utm是一個由python寫成的小工具。其主要的功能為將經緯度�
     ```
     conda activate ll2utm_Env
     ```
-當前方出現fid2nav_Env字樣，表示環境已經切換成功。
+當前方出現ll2utm_Env字樣，表示環境已經切換成功。
 可以關閉power shell。
 
 8. 執行之前，請先將run貓的檔名改成run蝙蝠。(僅第一次需要做)
