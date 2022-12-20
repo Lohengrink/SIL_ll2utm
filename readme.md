@@ -28,9 +28,9 @@ ll2utm是一個由python寫成的小工具。其主要的功能為將經緯度�
 除了在點選環境變數的地方，建議勾選起來，其他部分原則上一路next應該即可安裝完成。(如圖)
     ![This is a alt text. env_path](./image/01_env_path.png "env_path")
 
-2. 在這個網址ll2utm下載程式碼(如圖)
+2. 在這個網址 <https://github.com/Lohengrink/SIL_ll2utm> 下載程式碼(如圖)
 
-    ![This is a alt text. activateEnvSuccessfully](./image/02_code_download.png "activateEnvSuccessfullyn")
+    ![This is a alt text. activateEnvSuccessfully](./image/02_code_download.png "activateEnvSuccessfully")
 
 3. 之後在自己電腦中的"開始"，查詢Anaconda powershell (如圖)，雙擊打開
     ![This is a alt text. openAnacondaPowershell](./image/03_start_anaconda_powershell.png "openAnacondaPowershell")
